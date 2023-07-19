@@ -1,0 +1,65 @@
+html, body {
+  font-family: sans-serif;
+  padding: 10px;
+  background: #ffedad;
+}
+
+#output {
+  width: 100%;
+  margin: auto;
+  background: #ffa3a3
+}
+
+button {
+  background: yellow;
+  color: black;
+}
+
+.insideHeader {
+  background: lightskyblue;
+  display: block;
+  font-family: 'courier new';
+  text-align: center;
+  margin: auto;
+  padding: 1%;
+  width: 40%;
+  border-color: #ffffff;
+  border-width: 10px;
+}
+
+.insidePage {
+  background: lightskyblue;
+  display: block;
+  font-family: 'courier new';
+  text-align: center;
+  margin: auto;
+  padding: 1%;
+  width: 60%;
+  border-color: #000000;
+  border-width: 10px;
+}
+
+#start {
+  padding: 2%;
+  margin-bottom: 3%;
+}
+
+#selCat {
+  padding: 1%;
+  width: 102%;
+  margin: auto;
+/*   margin-bottom: 3%; */
+}
+
+#selDiff {
+  padding: 1%;
+  width: 51%;
+  margin: auto;
+  margin-bottom: 1%;
+}
+
+#number {
+  padding: 1%;
+  width: 25.5%;
+  margin: auto;
+}
